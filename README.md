@@ -11,4 +11,4 @@ Contents -
 
 There is a special background animation of moving dots, whenever there is a intrusion it turns red.
 There is CORS enabled between the [UTM API](https://github.com/uml-api) and this Vue Website, so it features real time updates. 
-Learn more about UTM here - [UTM](https://github.com/NishantIyer/utm-interface/utm.md)
+Learn more about UTM here - [UTM](https://github.com/NishantIyer/utm-interface/blob/master/UTM.md)
