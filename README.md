@@ -10,5 +10,5 @@ Contents -
 - Alerts - visual alerts, notifications, sends alert to email. sms and animated icons.
 
 There is a special background animation of moving dots, whenever there is a intrusion it turns red.
-There is CORS enabled between the [UTM API](https://vercel.app/uml-api/scanResults) and this Vue Website, so it features real time updates. 
+There is CORS enabled between the [UTM API](https://uml-api.vercel.app/scanResults) and this Vue Website, so it features real time updates. 
 Learn more about UTM here - [UTM](https://github.com/NishantIyer/utm-interface/blob/master/UTM.md)
